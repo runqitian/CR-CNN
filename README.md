@@ -1,4 +1,4 @@
-# CR-CNN Implementation 
+# CRCNN Implementation 
 ## Introduction
 This model is an implementation of Classification Relatoins by Ranking with Convolutional Neural Network, paper link is https://arxiv.org/abs/1504.06580 <br/>
 Word Embedding link is: http://nlp.stanford.edu/data/glove.6B.zip <br/>
